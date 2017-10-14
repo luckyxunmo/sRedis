@@ -57,8 +57,7 @@ void TestHmset(sessionRedis& sredis)
    // cin >> userID;
     
     string time = "12 34" ;
-    //cout << "time is" << endl;
-   // cin >> time;
+ 
     
     std::map<string,string> attrs;
     attrs["user ID"] = userID;
