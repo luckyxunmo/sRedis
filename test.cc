@@ -52,10 +52,7 @@ void TestHmset(sessionRedis& sredis)
     cout << "input key"<<endl;
     cin >> key;
     
-    string userID = "key 6" ;
-   //cout << "userID is "<<endl;
-   // cin >> userID;
-    
+    string userID = "key 6" ; 
     string time = "12 34" ;
  
     
